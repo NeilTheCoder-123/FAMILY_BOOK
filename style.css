@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(243, 10, 10),lavender,yellow);
+}
+#family_img{
+    width:25%;
+    height: 60%;
+}
+button{
+    font-size:25px;
+    background-color:bisque;
+    border-radius:20%;
+    color:black;
+}
+h1{
+    font-size:  40px;
+    color: blue;
+   text-decoration: underline;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    font-size: 30px;
+    color:purple;
+    font-weight: bold;
+    text-decoration: underline;
+}
